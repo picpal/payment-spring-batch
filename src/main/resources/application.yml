@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: batch
+
+#  datasource:
+#    url: jdbc:oracle:thin:@localhost:1521:xe
+#    username: your_username
+#    password: your_password
+#    driver-class-name: oracle.jdbc.OracleDriver
+#
+#  jpa:
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.Oracle12cDialect
+#    hibernate:
+#      ddl-auto: none
+
+#batch:
+#  jdbc:
+#    initialize-schema: always
